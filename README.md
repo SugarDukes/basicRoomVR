@@ -1,2 +1,2 @@
 # basicRoomVR
-A basic roomto use for VR stuffs
+A basic room to use for VR stuffs
