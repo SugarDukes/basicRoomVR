@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Room VR", "Basic Room VR.csproj", "{F8DB1EAC-CA2D-AB16-34F7-9EC06CDA479F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Room VR.Plugins", "Basic Room VR.Plugins.csproj", "{B96BA1D0-BA83-728F-B221-B2BFF23D67BF}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Room VR.Editor", "Basic Room VR.Editor.csproj", "{E13EADAE-95BC-405F-92B0-AC90301DBF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Room VR.Editor.Plugins", "Basic Room VR.Editor.Plugins.csproj", "{0A531096-9FE5-8B83-C9E5-42978197F255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +19,18 @@ Global
 		{F8DB1EAC-CA2D-AB16-34F7-9EC06CDA479F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DB1EAC-CA2D-AB16-34F7-9EC06CDA479F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DB1EAC-CA2D-AB16-34F7-9EC06CDA479F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96BA1D0-BA83-728F-B221-B2BFF23D67BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96BA1D0-BA83-728F-B221-B2BFF23D67BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96BA1D0-BA83-728F-B221-B2BFF23D67BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96BA1D0-BA83-728F-B221-B2BFF23D67BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E13EADAE-95BC-405F-92B0-AC90301DBF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E13EADAE-95BC-405F-92B0-AC90301DBF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13EADAE-95BC-405F-92B0-AC90301DBF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13EADAE-95BC-405F-92B0-AC90301DBF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A531096-9FE5-8B83-C9E5-42978197F255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A531096-9FE5-8B83-C9E5-42978197F255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A531096-9FE5-8B83-C9E5-42978197F255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A531096-9FE5-8B83-C9E5-42978197F255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
